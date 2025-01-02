@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 8px solid black;
+    border-radius: 20px;
+    margin: 30px;
+    
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+
+    
+}
+.yellow {
+    background-color: yellow;
+}
+.red {
+    background-color: red;
+
+}
+.green {
+    background-color: green;
+}
+.purple {
+    background-color: purple;
+
+}
+.flesh {
+    background-color: #fff;
+}
+
+.userFlesh  {
+    background-color: green;
+}
